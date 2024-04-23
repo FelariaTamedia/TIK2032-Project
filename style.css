@@ -4,7 +4,8 @@
 	font-family: sans-serif;
 }
 .dark-mode{
-    background-image: url(dark.jpeg);
+    background-color: #000000;
+	background-image: url(black.jpeg);
 	color: #ffffff;
 	background-size: 70em;
 }

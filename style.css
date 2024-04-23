@@ -4,7 +4,7 @@
 	font-family: sans-serif;
 }
 .dark-mode{
-	background-image: url(dark.jpeg);
+	background-color: #0a080a;
 	color: #ffffff;
 	background-size: 70em;
 }
@@ -45,7 +45,7 @@ header ul li a:hover {
 	color: #fff;
 }
 body {
-	background-image: url(background.jpeg);
+	background-color: #f5b3cb;
 	color:#000000;
 	background-size: 80em;
 }
